@@ -370,8 +370,6 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?+:\/\/3gimg\.qq\.com\/tencentMapTouch\/app\/activity\/ url reject-200
 ^https?+:\/\/3gimg\.qq\.com\/tencentMapTouch\/splash\/ url reject-200
 ^https?+:\/\/4gimg\.map\.qq\.com\/mwaSplash\/ url reject-200
-# >> 腾讯视频
-^https?+:\/\/(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/.+?\.tc\.qq\.com\/.+?p201\.1\.mp4\? url reject-200
 # >> 腾讯新闻
 ^https?+:\/\/r\.inews\.qq\.com\/(?>adsBlacklist|getFullScreenPic|getQQNewsRemoteConfig) url reject-200
 # >> 腾讯体育
