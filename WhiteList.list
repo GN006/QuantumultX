@@ -40,7 +40,7 @@ HOST-SUFFIX,akadns.net,WhiteList
 HOST-SUFFIX,apple-cloudkit.com,WhiteList
 HOST-SUFFIX,apple-dns.net,WhiteList
 HOST-SUFFIX,apple-icloud.cn,WhiteList
-HOST-SUFFIX,apple-livephotoskit.com,AWhiteList
+HOST-SUFFIX,apple-livephotoskit.com,WhiteList
 HOST-SUFFIX,apple-mapkit.com,WhiteList
 HOST-SUFFIX,apple.co,WhiteList
 HOST-SUFFIX,apple.com,WhiteList
