@@ -148,3 +148,4 @@ IP-CIDR,198.183.17.0/24,WhiteList
 IP-CIDR,205.180.175.0/24,WhiteList
 IP-CIDR,63.92.224.0/19,WhiteList
 IP-CIDR,65.199.22.0/23,WhiteList
+HOST,iadsdk.apple.com,WhiteList
