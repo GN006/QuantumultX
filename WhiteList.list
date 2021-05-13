@@ -45,7 +45,7 @@ HOST-SUFFIX,apple-mapkit.com,WhiteList
 HOST-SUFFIX,apple.co,WhiteList
 HOST-SUFFIX,apple.com,WhiteList
 HOST-SUFFIX,apple.com.cdn20.com,WhiteList
-HOST-SUFFIX,apple.com.cn,Apple
+HOST-SUFFIX,apple.com.cn,WhiteList
 HOST-SUFFIX,apple.com.mwcloudcdn.com,WhiteList
 HOST-SUFFIX,apple.com.mwcname.com,WhiteList
 HOST-SUFFIX,apple.news,WhiteList
