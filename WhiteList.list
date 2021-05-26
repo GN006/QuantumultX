@@ -30,10 +30,6 @@ HOST-SUFFIX,clientlog.music.163.com,WhiteList
 HOST-SUFFIX,clientlog3.music.163.com,WhiteList
 
 HOST-SUFFIX,music.163.com,WhiteList
-HOST-SUFFIX,interface.music.163.com,WhiteList
-HOST-SUFFIX,interface3.music.163.com,WhiteList
-HOST-SUFFIX,apm.music.163.com,WhiteList
-HOST-SUFFIX,apm3.music.163.com,WhiteList
 
 HOST-KEYWORD,wb_ad,WhiteList
 USER-AGENT,Coffee%20Corp*,WhiteList
