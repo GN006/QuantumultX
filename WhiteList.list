@@ -29,8 +29,6 @@ HOST-SUFFIX,tracking-protection.cdn.mozilla.net,WhiteList
 HOST-SUFFIX,soup.v.qq.com,WhiteList
 HOST-SUFFIX,m.qpic.cn,WhiteList
 HOST-SUFFIX,wspeed.qq.com,WhiteList
-HOST-SUFFIX,h.trace.qq.com,WhiteList
-HOST-SUFFIX,otheve.beacon.qq.com,WhiteList
 HOST-SUFFIX,beacon.qq.com,WhiteList
 HOST-SUFFIX,rqd.qq.com,WhiteList
 HOST-SUFFIX,wup.imtt.qq.com,WhiteList
