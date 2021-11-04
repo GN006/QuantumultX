@@ -68,7 +68,6 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/als\.baidu\.com\/clog\/clog url reject-img
 ^https?:\/\/baichuan\.baidu\.com\/rs\/adpmobile\/launch url reject-img
 ^https?:\/\/cover.baidu.com\/cover\/page\/dspSwitchAds\/ url reject
-^https?:\/\/fcvbjbcebos\.baidu\.com\/.+?\.mp4 url reject-img
 ^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/(guanggao|ts_ad)\/ url reject
 ^https?:\/\/log.+?baidu\.com url reject
 ^https?:\/\/log\..+?\.baidu\.com url reject-img
@@ -101,7 +100,6 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/api\.vc\.bilibili\.com\/search_svr\/v\d\/Search\/recommend_words url reject
 ^https?:\/\/api\.vc\.bilibili\.com\/topic_svr\/v1\/topic_svr url reject
 ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash url reject
-^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-room\/v1\/index\/getInfoByRoom url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
 
 # > 抱抱
 ^https?+:\/\/www\.myhug\.cn\/ad\/ url reject-200
