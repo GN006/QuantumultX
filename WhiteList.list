@@ -46,3 +46,4 @@ HOST-SUFFIX,iadsdk.apple.com,WhiteList
 HOST-SUFFIX,hd2.3g.qq.com,WhiteList
 HOST-SUFFIX,d3g.qq.com,WhiteList
 HOST-SUFFIX,wspeed.qq.com,WhiteList
+HOST-SUFFIX,dp3.qq.com,WhiteList
