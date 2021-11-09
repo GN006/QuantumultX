@@ -32,3 +32,6 @@ USER-AGENT,restaurant-mobile*,WhiteList
 HOST-SUFFIX,mdt.qq.com,WhiteList
 HOST-SUFFIX,rqd.qq.com,WhiteList
 HOST-SUFFIX,bugly.qq.com,WhiteList
+HOST-SUFFIX,wup.imtt.qq.com,WhiteList
+HOST-SUFFIX,up-hl.3g.qq.com,WhiteList
+HOST-SUFFIX,yun-hl.3g.qq.com,WhiteList
