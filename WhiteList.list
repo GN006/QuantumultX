@@ -42,3 +42,4 @@ HOST-SUFFIX,gdt.qq.com,WhiteList
 HOST-SUFFIX,event.toggle.qq.com,WhiteList
 HOST-SUFFIX,soup.v.qq.com,WhiteList
 HOST-SUFFIX,appsupport.qq.com,WhiteList
+HOST-SUFFIX,iadsdk.apple.com,WhiteList
