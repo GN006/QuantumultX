@@ -30,3 +30,4 @@ USER-AGENT,archero*,WhiteList
 USER-AGENT,coffeecorp*,WhiteList
 USER-AGENT,restaurant-mobile*,WhiteList
 HOST-SUFFIX,mdt.qq.com,WhiteList
+HOST-SUFFIX,rqd.qq.com,WhiteList
