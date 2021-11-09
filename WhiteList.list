@@ -40,3 +40,4 @@ HOST-SUFFIX,beacon.qq.com,WhiteList
 HOST,vv.video.qq.com,WhiteList
 HOST-SUFFIX,gdt.qq.com,WhiteList
 HOST-SUFFIX,event.toggle.qq.com,WhiteList
+HOST-SUFFIX,soup.v.qq.com,WhiteList
