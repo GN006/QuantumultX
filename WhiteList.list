@@ -29,12 +29,6 @@ USER-AGENT,Coffee%20Corp*,WhiteList
 USER-AGENT,archero*,WhiteList
 USER-AGENT,coffeecorp*,WhiteList
 USER-AGENT,restaurant-mobile*,WhiteList
-
-HOST-SUFFIX,event.toggle.qq.com,WhiteList
-HOST-SUFFIX,soup.v.qq.com,WhiteList
-HOST-SUFFIX,appsupport.qq.com,WhiteList
 HOST-SUFFIX,iadsdk.apple.com,WhiteList
-HOST-SUFFIX,hd2.3g.qq.com,WhiteList
-HOST-SUFFIX,d3g.qq.com,WhiteList
-HOST-SUFFIX,wspeed.qq.com,WhiteList
-HOST-SUFFIX,dp3.qq.com,WhiteList
+HOST-SUFFIX,event.toggle.qq.com,WhiteList
+HOST-SUFFIX,appsupport.qq.com,WhiteList
