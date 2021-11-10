@@ -29,16 +29,7 @@ USER-AGENT,Coffee%20Corp*,WhiteList
 USER-AGENT,archero*,WhiteList
 USER-AGENT,coffeecorp*,WhiteList
 USER-AGENT,restaurant-mobile*,WhiteList
-HOST-SUFFIX,mdt.qq.com,WhiteList
-HOST-SUFFIX,rqd.qq.com,WhiteList
-HOST-SUFFIX,bugly.qq.com,WhiteList
-HOST-SUFFIX,wup.imtt.qq.com,WhiteList
-HOST-SUFFIX,up-hl.3g.qq.com,WhiteList
-HOST-SUFFIX,yun-hl.3g.qq.com,WhiteList
-HOST-SUFFIX,bsrv.qq.com,WhiteList
-HOST-SUFFIX,beacon.qq.com,WhiteList
-HOST,vv.video.qq.com,WhiteList
-HOST-SUFFIX,gdt.qq.com,WhiteList
+
 HOST-SUFFIX,event.toggle.qq.com,WhiteList
 HOST-SUFFIX,soup.v.qq.com,WhiteList
 HOST-SUFFIX,appsupport.qq.com,WhiteList
