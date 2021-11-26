@@ -34,3 +34,4 @@ HOST-SUFFIX,event.toggle.qq.com,WhiteList
 HOST-SUFFIX,appsupport.qq.com,WhiteList
 HOST-SUFFIX,hmma.baidu.com,WhiteList
 HOST-SUFFIX,nsclick.baidu.com,WhiteList
+HOST-SUFFIX,cloud.rovio.com,WhiteList
