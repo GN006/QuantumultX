@@ -30,8 +30,6 @@ USER-AGENT,archero*,WhiteList
 USER-AGENT,coffeecorp*,WhiteList
 USER-AGENT,restaurant-mobile*,WhiteList
 HOST-SUFFIX,iadsdk.apple.com,WhiteList
-HOST-SUFFIX,event.toggle.qq.com,WhiteList
-HOST-SUFFIX,appsupport.qq.com,WhiteList
 HOST-SUFFIX,hmma.baidu.com,WhiteList
 HOST-SUFFIX,nsclick.baidu.com,WhiteList
 HOST-SUFFIX,cloud.rovio.com,WhiteList
