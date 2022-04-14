@@ -37,3 +37,4 @@ HOST-SUFFIX,re.taobao.com,WhiteList
 HOST-SUFFIX,amdc.m.taobao.com,WhiteList
 HOST-SUFFIX,trade-acs.m.taobao.com,WhiteList
 HOST-SUFFIX,sqdd.myapp.com,WhiteList
+HOST-SUFFIX,sdkconfig.video.qq.com,WhiteList
