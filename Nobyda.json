@@ -5,7 +5,7 @@
   "author": "@NobyDa",
   "icon": "https://avatars2.githubusercontent.com/u/53217160",
   "repo": "https://github.com/NobyDa/Script/tree/master",
-  "apps": [{{
+  "apps": [{
     "id": "BaiduTB",
     "name": "百度贴吧",
     "keys": ["CookieTB"],
