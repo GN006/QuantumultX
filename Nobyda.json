@@ -5,7 +5,8 @@
   "author": "@NobyDa",
   "icon": "https://avatars2.githubusercontent.com/u/53217160",
   "repo": "https://github.com/NobyDa/Script/tree/master",
-  "apps": [{
+  "apps": [
+    {
     "id": "BaiduTB",
     "name": "百度贴吧",
     "keys": ["CookieTB"],
@@ -40,9 +41,9 @@
     "author": "@sazs34, @NobyDa",
     "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
     "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Alpha/tieba.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png"]
-     }],
-    "task": [{
-      "config": "15 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png",
-      "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
-    }]
+    }],
+  "task": [{
+    "config": "15 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png",
+    "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js_Remote_Cookie.conf, tag=NobyDa Cookie获取"
+  }]
 }
