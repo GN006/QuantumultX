@@ -1,0 +1,7 @@
+{
+    "name": "Nobyda",
+    "description": "https://github.com/NobyDa/Script/tree/master",
+    "task": [
+        "0,2,5 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
+    ]
+}
