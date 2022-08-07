@@ -18,4 +18,6 @@
 ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash url reject-dict
 ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/ListFlash url reject-dict
 
-hostname = *.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com
+#
+
+hostname = *.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, app.bilibili.com, grpc.biliapi.net,manga.bilibili.com
