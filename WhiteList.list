@@ -36,6 +36,4 @@ HOST-SUFFIX,cloud.rovio.com,WhiteList
 HOST-SUFFIX,re.taobao.com,WhiteList
 HOST-SUFFIX,amdc.m.taobao.com,WhiteList
 HOST-SUFFIX,trade-acs.m.taobao.com,WhiteList
-HOST-SUFFIX,sqdd.myapp.com,WhiteList
-HOST-SUFFIX,pingjs.qq.com,WhiteList
-HOST-SUFFIX,cmshow.gtimg.cn,WhiteList
+HOST-SUFFIX,click.mz.simba.taobao.com,WhiteList
