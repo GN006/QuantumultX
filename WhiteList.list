@@ -31,7 +31,7 @@ USER-AGENT,coffeecorp*,WhiteList
 USER-AGENT,restaurant-mobile*,WhiteList
 HOST-SUFFIX,iadsdk.apple.com,WhiteList
 HOST-SUFFIX,hmma.baidu.com,WhiteList
-HOST-SUFFIX,nsclick.baidu.com,WhiteList
+HOST,hmma.baidu.com,WhiteList
 HOST-SUFFIX,cloud.rovio.com,WhiteList
 HOST-SUFFIX,re.taobao.com,WhiteList
 HOST-SUFFIX,amdc.m.taobao.com,WhiteList
