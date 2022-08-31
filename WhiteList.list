@@ -39,3 +39,5 @@ HOST-SUFFIX,trade-acs.m.taobao.com,WhiteList
 HOST-SUFFIX,click.mz.simba.taobao.com,WhiteList
 HOST-SUFFIX,mclick.simba.taobao.com,WhiteList
 HOST-SUFFIX,pingma.qq.com,WhiteList
+HOST-SUFFIX,bugly.qq.com,WhiteList
+HOST-SUFFIX,ios.bugly.qq.com,WhiteList
