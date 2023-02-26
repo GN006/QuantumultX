@@ -40,4 +40,5 @@ HOST-SUFFIX,click.mz.simba.taobao.com,WhiteList
 HOST-SUFFIX,mclick.simba.taobao.com,WhiteList
 HOST-SUFFIX,event.toggle.qq.com,WhiteList
 HOST,is.snssdk.com,WhiteList
-HOST,pangolin.snssdk.com,WhiteList
+HOST-SUFFIX,ulogs.umengcloud.com,WhiteList
+HOST-SUFFIX,ulogs.umeng.com,WhiteList
