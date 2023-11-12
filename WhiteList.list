@@ -43,3 +43,4 @@ HOST,is.snssdk.com,WhiteList
 HOST,p.bokecc.com,WhiteList
 HOST-SUFFIX,adashx.m.taobao.com,WhiteList
 HOST-SUFFIX,h-adashx.ut.taobao.com,WhiteList
+HOST-SUFFIX,effirst.com,WhiteList
