@@ -41,4 +41,3 @@ HOST-SUFFIX,mclick.simba.taobao.com,WhiteList
 HOST-SUFFIX,event.toggle.qq.com,WhiteList
 HOST,is.snssdk.com,WhiteList
 HOST,p.bokecc.com,WhiteList
-IP-CIDR,127.0.0./8,WhiteList
