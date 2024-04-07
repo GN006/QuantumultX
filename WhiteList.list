@@ -45,3 +45,4 @@ HOST,api.kwaizt.com,WhiteList
 HOST-SUFFIX,kskwai.com,WhiteList
 HOST-SUFFIX,policy.jd.com,WhiteList
 HOST,balckhole.m.jd.com,WhiteList
+HOST-SUFFIX,h-adashx.ut.taobao.com,whiteList
