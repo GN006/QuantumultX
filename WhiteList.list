@@ -45,6 +45,7 @@ HOST,api.kwaizt.com,WhiteList
 HOST-SUFFIX,kskwai.com,WhiteList
 HOST-SUFFIX,policy.jd.com,WhiteList
 HOST,balckhole.m.jd.com,WhiteList
-HOST-SUFFIX,h-adashx.ut.taobao.com,whiteList
-HOST-SUFFIX,ifs.tanx.com,whiteList
-HOST-SUFFIX,sjarvis.taobao.com,whiteList
+HOST-SUFFIX,h-adashx.ut.taobao.com,WhiteList
+HOST-SUFFIX,ifs.tanx.com,WhiteList
+HOST-SUFFIX,sjarvis.taobao.com,WhiteList
+HOST-SUFFIX,mssdk.zijieapi.com,WhiteList
