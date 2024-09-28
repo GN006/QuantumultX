@@ -50,3 +50,6 @@ HOST-SUFFIX,ifs.tanx.com,WhiteList
 HOST-SUFFIX,sjarvis.taobao.com,WhiteList
 HOST-SUFFIX,mssdk.zijieapi.com,WhiteList
 HOST-SUFFIX,tpstelemetry.tencent.com,WhiteList
+HOST-SUFFIX,sdkconfig.video.qq.com,WhiteList
+HOST-SUFFIX,wup.imtt.qq.com,WhiteList
+HOST-SUFFIX,ylog.huya.com,WhiteList
